@@ -19,7 +19,7 @@ Exemplo prompt: Estradas futuristas cheias de carros autônomos, sem motoristas 
 HeyGen: Criação do vídeo com a voz sintetizada, o avatar e leitura do roteiro.
 
 ## 🚀 Resultados
-https://github.com/GabrielaSR/lab-natty-or-not/blob/main/Um%20Futuro%20sem%20volantes.mp4
+[Um Futuro sem Volantes](https://github.com/GabrielaSR/lab-natty-or-not/blob/main/Um%20Futuro%20sem%20volantes.mp4)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
